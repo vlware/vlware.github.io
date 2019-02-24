@@ -18,7 +18,7 @@ email: vlwarestudio@gmail.com
 description: 
   VLWare is a software engineering studio specializing in ERP accounting and productivity projects. To facilitate these a significant amount of talent around the globe is put in motion. We cooperate with a pool of senior top of their class engineers who dive in on a per project basis.
 baseurl: "/intro" # the subpath of your site, e.g. /blog
-url: "vlware.gihub.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  vlware
 
