@@ -32,6 +32,9 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-swiss
+  - jekyll-theme-hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
