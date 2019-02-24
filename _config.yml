@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: VLWare
+title: VLWare Engineering Studio
 email: vlwarestudio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   VLWare is a software engineering studio specializing in ERP, accounting, 
@@ -28,13 +28,12 @@ github_username:  vlware
 # Build settings
 markdown: kramdown
 theme: minima
+#theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-swiss
-  - jekyll-theme-hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
