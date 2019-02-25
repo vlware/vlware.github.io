@@ -28,7 +28,10 @@ github_username:  vlware
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+#theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-feed
   - jekyll-archives
